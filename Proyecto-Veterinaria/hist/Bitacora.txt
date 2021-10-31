@@ -1,0 +1,105 @@
+
+-----------
+Usuario: mario
+Hora: 16:18:23
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida: 
+Hora de salida16:18:57
+Fecha: 24-10-2021
+-----------
+Usuario: mario
+Hora: 16:21:35
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 16:22:10
+Fecha: 24-10-2021
+-----------
+Usuario: will
+Hora: 17:13:1
+Fecha: 24-10-2021
+-----------
+Usuario: will
+Hora: 17:20:0
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 17:20:2
+Fecha: 24-10-2021
+-----------
+Usuario: will
+Hora: 17:21:8
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 17:21:9
+Fecha: 24-10-2021
+-----------
+Usuario: mario
+Hora: 13:25:38
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 13:25:46
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 18:59:17
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:0:19
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:1:19
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:1:53
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:2:57
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:4:0
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:4:4
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:5:34
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:5:36
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:6:16
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:6:19
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:7:11
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:7:18
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:8:2
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:11:2
+Fecha: 31-10-2021
