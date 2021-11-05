@@ -1,0 +1,381 @@
+
+-----------
+Usuario: mario
+Hora: 16:18:23
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida: 
+Hora de salida16:18:57
+Fecha: 24-10-2021
+-----------
+Usuario: mario
+Hora: 16:21:35
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 16:22:10
+Fecha: 24-10-2021
+-----------
+Usuario: will
+Hora: 17:13:1
+Fecha: 24-10-2021
+-----------
+Usuario: will
+Hora: 17:20:0
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 17:20:2
+Fecha: 24-10-2021
+-----------
+Usuario: will
+Hora: 17:21:8
+Fecha: 24-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 17:21:9
+Fecha: 24-10-2021
+-----------
+Usuario: mario
+Hora: 13:25:38
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 13:25:46
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 18:59:17
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:0:19
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:1:19
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:1:53
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:2:57
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:4:0
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:4:4
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:5:34
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:5:36
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:6:16
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:6:19
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:7:11
+Fecha: 31-10-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 19:7:18
+Fecha: 31-10-2021
+-----------
+Usuario: Mario
+Hora: 19:8:2
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 19:11:2
+Fecha: 31-10-2021
+-----------
+Usuario: mario
+Hora: 13:33:53
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 14:16:7
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 14:39:2
+Fecha: 3-11-2021
+-----------
+Usuario: will
+Hora: 14:41:19
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:17:4
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:19:43
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:27:28
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:30:38
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:35:36
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:40:50
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:41:5
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:42:59
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:45:5
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:53:4
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 16:55:29
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 17:1:59
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 17:18:36
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 17:23:9
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 17:29:54
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 18:37:19
+Fecha: 3-11-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 18:37:24
+Fecha: 3-11-2021
+-----------
+Usuario: mario
+Hora: 18:38:53
+Fecha: 3-11-2021
+-----------
+Usuario: will
+Hora: 18:53:35
+Fecha: 3-11-2021
+-----------
+Usuario: will
+Hora: 18:56:7
+Fecha: 3-11-2021
+-----------
+Usuario: will
+Hora: 19:1:59
+Fecha: 3-11-2021
+-----------
+Usuario: will
+Hora: 19:4:55
+Fecha: 3-11-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 23:27:56
+Fecha: 3-11-2021
+-----------
+Usuario: will
+Hora: 1:24:44
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 1:26:17
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 1:27:13
+Fecha: 4-11-2021
+-----------
+Usuario: mario
+Hora: 11:41:5
+Fecha: 4-11-2021
+-----------
+Usuario: mario
+Hora: 11:44:22
+Fecha: 4-11-2021
+-----------
+Usuario: mario
+Hora: 11:56:2
+Fecha: 4-11-2021
+-----------
+Usuario: mario
+Hora: 11:58:0
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 12:27:53
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 12:28:57
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:43:1
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:43:30
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:43:58
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:47:32
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:48:33
+Fecha: 4-11-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 13:48:44
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:49:58
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:50:31
+Fecha: 4-11-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 13:50:36
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 13:59:59
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 14:0:26
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:1:45
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:6:56
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 14:16:17
+Fecha: 4-11-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 14:16:20
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:19:2
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:20:11
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:21:31
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:23:58
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:26:2
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:28:36
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 14:37:24
+Fecha: 4-11-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 14:37:31
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 14:42:34
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 14:55:41
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 15:7:33
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 15:15:39
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 15:17:21
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 15:20:10
+Fecha: 4-11-2021
+-----------
+Usuario: Will
+Hora: 15:23:48
+Fecha: 4-11-2021
+------------
+Hora y Fecha de salida 
+Hora de salida: 15:24:56
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 17:40:58
+Fecha: 4-11-2021
+-----------
+Usuario: will
+Hora: 17:43:21
+Fecha: 4-11-2021
